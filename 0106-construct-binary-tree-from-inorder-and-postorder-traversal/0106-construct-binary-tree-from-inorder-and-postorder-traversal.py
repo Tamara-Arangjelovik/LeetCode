@@ -7,5 +7,5 @@ class Solution:
         root.left=self.buildTree(inorder[:index],postorder[:index])
         root.right=self.buildTree(inorder[index+1:],postorder[index:-1])
         return root
-    #please upvote me it would encourage me alot
+
         
