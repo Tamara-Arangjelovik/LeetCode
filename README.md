@@ -53,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
