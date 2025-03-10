@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 ## Trie
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 ## Recursion
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -433,4 +438,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tamara-Arangjelovik/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
